@@ -1,4 +1,4 @@
-{
+*{
     padding:0;
     margin:0;
 
@@ -13,7 +13,7 @@ body{
     background-color: white;
 }
 .contenedor{
-           background: url();
+           background: url(.../media/IMG/background);
            background-size: contain;
            font-family:  Verdana, Geneva, Tahoma, sans-serif;
            margin: auto;
