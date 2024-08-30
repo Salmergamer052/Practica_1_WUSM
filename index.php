@@ -42,6 +42,12 @@
                                         </div>
                                     </td>
                                 </tr>
+                                 <tr>
+                                    <td align="center">
+                                     <button type="button" class="btn btn-primary" name="btn_entrar" id="btn_entrar">Iniciar Sesion</button>
+                                      <div class="mensaje"></div>
+                                    </td>
+                                 </tr>
                             </tbody>
                         </table>
                     </form>
