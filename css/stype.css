@@ -13,10 +13,10 @@ body{
     background-color: white;
 }
 .contenedor{
-           background: url(.../media/IMG/background);
+           background: url("../media/IMG/background.png") no-repeat;
            background-size: contain;
            font-family:  Verdana, Geneva, Tahoma, sans-serif;
            margin: auto;
-           width: 100%;
+           width: 100% !important;
            height: 100vh;
 }
